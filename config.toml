@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'osu!: jocul de ritm pentru toți' 
+theme = 'ananke'
