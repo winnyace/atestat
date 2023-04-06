@@ -1,0 +1,1 @@
+Pentru a vizionea acest website, trebuie să mergi în folder-ul "public". "index.html" este prima pagină a site-ului.

@@ -1,4 +1,10 @@
-baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'osu!: jocul de ritm pentru toți' 
 theme = 'ananke'
+staticDir= 'static'
+
+relativeURLs = true
+uglyurls = true
+
+[params]
+    favicon = "/images/favicon.ico"

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/ion/atestat",
+	"sourceRoot": "/home/ion/Documents/Projects/atestat",
 	"sources": [
 		"ananke/css/main.css"
 	],

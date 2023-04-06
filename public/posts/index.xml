@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on osu!: jocul de ritm pentru toți</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts.html</link>
     <description>Recent content in Posts on osu!: jocul de ritm pentru toți</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 12 Mar 2023 17:10:00 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Istorie: început</title>
-      <link>http://example.org/posts/istorie/inceput/</link>
-      <pubDate>Sun, 12 Mar 2023 17:10:00 +0200</pubDate>
+      <title>Jocul în sine</title>
+      <link>/posts/jocul.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/istorie/inceput/</guid>
-      <description>De făcut.</description>
+      <guid>/posts/jocul.html</guid>
+      <description>osu! este un joc de ritm, bazat pe muzică. Are 4 moduri de joc: osu!, osu!taiko, osu!catch și osu!mania.
+Muzica jocului nu este aleasă de către echipa de dezvoltare. Peppy a ales ca jocul să fie &amp;ldquo;self-maintained&amp;rdquo;, pe românește, ca comunitatea în jurul jocului să își creeze singur conținutul, singurul să își modereze acest conținut, și așa mai departe. Peppy și echipa de moderare vin doar în cazuri speciale. Astfel, muzica este în principal origine japoneză sau engleză în mare parte din cazuri.</description>
     </item>
     
   </channel>
