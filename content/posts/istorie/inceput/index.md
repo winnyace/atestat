@@ -1,5 +1,6 @@
 ---
-title: "Istorie: început"
+title: "Istorie: început (2007-2010)"
+weight: 2
 draft: true 
 ---
 

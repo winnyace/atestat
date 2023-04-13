@@ -6,7 +6,12 @@ draft: false
 
 osu! este un joc de ritm, bazat pe muzică. Are 4 moduri de joc: osu!, osu!taiko, osu!catch și osu!mania. 
 
-Muzica jocului nu este aleasă de către echipa de dezvoltare. Peppy a ales ca jocul să fie "self-maintained", pe românește, ca comunitatea în jurul jocului să își creeze singur conținutul, singurul să își modereze acest conținut, și așa mai departe. Peppy și echipa de moderare vin doar în cazuri speciale. Astfel, muzica este în principal origine japoneză sau engleză în mare parte din cazuri. Uneori, sunt și alte limbi, chiar și română, dar nu sunt foarte dese astfel de momente. Motivele pentru care japoneza este limba predominantă sunt multe și multe, dar se rezumă la muzica de origine japoneză este, de obicei, mai variată și mai dinamică decât muzica din alte limbi iar limba în sine este foarte bună pentru un joc de acest gen.
+Muzica jocului nu este aleasă de către echipa de dezvoltare.
+Peppy a ales ca jocul să fie "self-maintained", pe românește, că comunitatea în jurul jocului să își creeze singur conținutul, singură își modereze acest conținut, și așa mai departe.
+Peppy și echipa de moderare vin doar în cazuri speciale.
+Astfel, muzica este în principal origine japoneză sau engleză în mare parte din cazuri.
+Uneori, sunt și alte limbi, chiar și română, dar nu sunt foarte dese astfel de momente. 
+Motivele pentru care japoneza este limba predominantă sunt multe și multe, dar se rezumă la muzica de origine japoneză este, de obicei, mai variată și mai dinamică decât muzica din alte limbi iar limba în sine este foarte bună pentru un joc de acest gen.
 
 ## Modul de joc osu!
 
