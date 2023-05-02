@@ -48,12 +48,38 @@ Dacă au calitatea dorită, aceasta devin "ranked", adică aceste hărți au cla
 
 # Modificatori 
 
-Jocul prezintă modificatori (o să le spun moduri de acum înainte) care alterează orice hartă să fie mai grea sau mai ușoară. O să trec prin câteva astfel de modificări.
+Jocul prezintă modificatori (o să le spun mod/mod-uri de acum înainte) care alterează orice hartă să fie mai grea sau mai ușoară. O să trec prin câteva astfel de modificări.
 
-**Hard Rock**
-Este o modificare ce dorește să crească dificultatea.
-În principal face acest lucru prin a cresțe viteza, marșa de eroare pentru un scor perfect, "pedeapsa" pentru un scor imperfect sau un miss și scade dimensiunea obiectelor.
+**Hard Rock**:
+Este o mod ce dorește să crească dificultatea.
+În principal face acest lucru prin a cresțe viteza obiectelor, marșa de eroare pentru un scor perfect și scade dimensiunea obiectelor.
 Pentru modul standard de joc, Hard Rock întoarce harta pe axa X, pentru a spori dificultatea.
+
+**Easy**:
+Este o mod care face fix invers ce face Hard Rock.
+Scade viteza obiectelor și marșa de eroare pentru un scor perfect și crește dimensiunea obiectelor.
+Deși numele este "easy", este greșit să crezi că o să facă o hartă mai ușoară.
+Viteza fiind scăzută poate face hărțile cu dificultate ușoare spre mediei mai ușoare, dar pentru hărțile cu dificulate mare, viteza mică va transforma hărțile acelea într-un "iad" de cercuri și slidere.
+Acest lucru crește ce-a ce numit *densitatea* hărți.
+
+**Double Time**:
+Este o mod care crește viteza melodiei și a obiectelor și marșa de eroare.
+Este unul dintre cele mai folosit mod.
+
+**Half Time:**
+Este modul care scade viteza melodiei și a obiectelor și marșa de eroare.
+Nu este folosit foarte mult, decât pentru hărți care la viteza lor normală sunt imposibile sau aproape imposibile.
+
+**Hidden**:
+Este un mod visual făcând ca obiectele să apară pentru puțin timp pe ecran, acestea disolvându-se când sunt aproape de-a fi "lovite".
+Densitatea și viteza pentru acest mod este un aspect important.
+Cu densitatea mică și viteza mare, hidden nu crește foarte mult dificultatea, fiind un bonus mai mult sau mai puțin gratuit, făcând acest mod cel mai folosit mod.
+Dacă avem viteza mică și densitatea mică, hidden crește puțin dificultatea.
+Dacă avem viteza mică și densitatea mare, hidden crește dificultatea foarte mult.
+
+**Flashlight**:
+Este un mod visual ce restricționează cât vedem pe ecran.
+Acesta zonă crește cu cât mai mult obiecte lovite la timp.
 
 # Demonstrații:
 
