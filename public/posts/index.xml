@@ -16,5 +16,14 @@
 Muzica jocului nu este aleasă de către echipa de dezvoltare. Dean &amp;ldquo;peppy/ppy&amp;rdquo; Herbert, dezvolatorul jocului, a ales ca jocul să fie &amp;ldquo;self-maintained&amp;rdquo;, adică comunitatea din jurul jocului să își creeze singur conținutul, singură să își modereze acest conținut, și așa mai departe. peppy și echipa de moderare vin doar în cazuri speciale.</description>
     </item>
     
+    <item>
+      <title>Istorie: început (2007-2009)</title>
+      <link>/posts/istorie/inceput.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/istorie/inceput.html</guid>
+      <description>2007 - Big Bang-ul jocului osu! a început sub numele de &amp;ldquo;ouentest&amp;rdquo;. În doar 16 ore, pe data de 1 iulie, jocul avea primul mod de joc, cel standard de azi, și un editor de hărți foarte simplistic. Nu erau decât cercurile, nu și sliderele sau spinnerele. Până la sfârșitul lui iulie, jocul avea o implementare primitivă pentru slidere. Ușor, ușor se adaugă elemente precum un nou meniu principal, funcțiile de copiere și alipire în editor, bara de HP, și mai multe.</description>
+    </item>
+    
   </channel>
 </rss>
