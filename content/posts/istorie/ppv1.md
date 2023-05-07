@@ -1,6 +1,6 @@
 ---
 title: "Istorie: PPv1(2012-2014)"
-draft: true
+draft: false
 ---
 
 PP sau Performance Points este modul în care jucători sunt dispuși pe clasamentul global și cel din țara de proveniență al fiecărui jucător.
