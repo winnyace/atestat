@@ -1,6 +1,6 @@
 ---
 title: "osu! lazer"
-draft: true
+draft: false 
 ---
 
 osu! lazer este numele pentru viitorul lui osu.
