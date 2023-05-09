@@ -1,5 +1,5 @@
 ---
-title: "Istorie: PPv1(2012-2014)"
+title: "Istorie: ppv1 (2012-2014)"
 draft: false
 ---
 
@@ -25,5 +25,5 @@ Deși nu se știe sigur cum acest sistem a funcționat, au fost dezvăluie nișt
 Jucători au descoperit rapid că hărți cu dificultate mare nu primesc foarte mult pp și că harți cu dificultatea "hard" primesc foarte mult pp. 
 Tot ei au descoperit că modurile precum Hidden oferă un boost de pp exponențial.
 Reîncercarea continuă a unei hărți aduce multe puncte pentru un efort depus din ce în ce mai mic.
-Formula pentru pp maxim este: hartă populară + dificultatea "hard" + orice mod(Hidden este cel mai simplu) + mult reîncercări pentru un scor perfect = pp maxim.
+Formula pentru pp maxim este: hartă populară + dificultatea "hard" + orice mod (Hidden este cel mai simplu) + mult reîncercări pentru un scor perfect = pp maxim.
 Însă probabil cea mai mare problemă era faptul că nimeni nu sția clar cum merge sistemul, lucru care era frustrant pentru jucători de top.
