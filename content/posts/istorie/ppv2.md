@@ -11,3 +11,11 @@ Acest sistem, în timp, a fost și el modificat pentru a oferi jucătorilor cu t
 Cel mai mare update la acest sistem a fost în 16 Ianuarie 2021, când mai mulți membri ai comunități au implementat multe schimbări la acest sistem.
 
 În prezent, acest sistem este încă în continuă dezvoltare și este încă folosit.
+
+În prezent, jucătorul de pe prima poziție a clasamentul global de jucători este mrekk, din Australia.
+
+În prezent, recordul pentru cel mare punctaj de pp acordat unui jucător este de 1371pp, realizat de jucătorul mrekk, pe harta Yooh - MariannE, cu modificările Double Time și Hidden activate. Este de asemenea și primul scor pe acestă hartă cu Double Time.
+
+![O poză cu detaliile scorul setat de mrekk](/top_pp_score.jpg "Scorul setat de către mrekk")
+
+{{< youtube SrO4e27zubU >}}
