@@ -39,49 +39,54 @@ El necesită rotirea cursorului la o viteză aceptabilă în timp ce ținem apă
 
 ![Spinner](/osu_spinner.jpg "Spinner-ul")
 
-Toate aceste note oferă un scor când sunt apăsate și ne pot scade sau urca acuratețea.
+Toate aceste note oferă un scor când sunt apăsate și pot scade sau crește acuratețea jucătorului.
 Dacă sunt apăsate la timpul potrivit, jucătorul primește 300 de puncte iar acuratețea sa urcă înapoi spre 100%, ori rămâne la 100%.
 Altfel, jucătorul primește un scor de 100, 50 sau o ratare, acest lucru depinsând cât de aproape de muzică a fost jucătorul.
 Acureatețea jucătorului scade în monentul în care primește un astfel de scor.
 
-Există o bară de viață. Orice scor oferă viață, înafară de o ratare. Ratarea scade viață. Prea multe ratări va rezulta în viața jucătorului să ajungă la zero, moment în care jucătorul pierde controlul, jocul terminându-se brusc.
+Există o bară de viață. Orice scor oferă viață, înafară de o ratare. 
+Ratarea scade viață. 
+Prea multe ratări va rezulta în viața jucătorului să ajungă la zero, moment în care jucătorul pierde controlul, jocul terminându-se brusc.
 
 Aceste note sunt folosite pentru a crea hărți, numite "beatmaps". 
 Aceste hărți sunt create de către jucători și pot trece printr-un proces de verificare a calității. 
 Dacă au calitatea dorită, aceasta devin "ranked", adică aceste hărți au un clasament propriu și oferă puncte numite Performance Points sau PP pe scurt.
-Aceste puncte sunt folosite pentru plasarea tuturor jucătorilor pe un clasament global și unul local pentru țara de proveniență jucătorul.
+Aceste puncte sunt folosite pentru plasarea jucătorilor pe un clasament global și unul local pentru țara de proveniență jucătorul.
 
 # Modificatori 
 
 Jocul prezintă modificatori (o să le spun mod/moduri de acum înainte) care alterează orice hartă să fie mai grea sau mai ușoară. 
-Acestea pot să modifice câte puncte PP poate primi jucătorul.
+Acestea modifică câte puncte PP poate primi jucătorul, astfel sunt o parte esențială la nivele mai mari.
 Aceste moduri pot fi combinate într-o anumită măsură. Unele moduri anulează alte moduri.
-O să trec prin câteva astfel de modificări.
+Haideți să trecem în revistă câteva moduri:
 
 **Hard Rock:**
 Este un mod ce dorește să crească dificultatea.
-În principal face acest lucru prin a cresțe viteza notelor, marșa de eroare pentru un scor perfect și scade dimensiunea obiectelor.
-Pentru modul standard de joc, Hard Rock întoarce harta pe axa X, pentru a spori dificultatea.
+Hard Rock cresțe viteza notelor, marșa de eroare pentru un scor perfect și scade dimensiunea notelor.
+Pentru modul standard de joc, Hard Rock întoarce harta pe axa X împreună cu modificările de mai sus, pentru a crește dificultatea și mai mult.
 
 **Easy:**
 Este un mod care face fix invers ce face Hard Rock.
-Scade viteza obiectelor și marșa de eroare pentru un scor perfect și crește dimensiunea obiectelor.
-Deși numele este "easy", este greșit să crezi că o să facă o hartă mai ușoară.
-Viteza fiind scăzută poate face hărțile cu dificultate ușoare spre mediei mai ușoare, dar pentru hărțile cu dificulate mare, viteza mică va transforma hărțile acelea într-un "iad" de cercuri și slidere.
+Scade viteza notelor și marșa de eroare pentru un scor perfect și crește dimensiunea notelor.
+Deși numele este "easy", este greșit să crezi că o să facă toate hărțile mai ușoare.
+Viteza scăzută face hărțile cu dificultate scăzută spre medie mai ușoare, dar pentru hărțile cu dificulate mare, viteza mică va transforma hărțile fa devini o mare problemă pentru jucători obișnuiți cu vitezele mari.
 Acest lucru crește ce-a ce numit *densitatea* hărți.
 
 **Double Time:**
-Este un mod care crește viteza melodiei și a obiectelor. 
+Este un mod care crește viteza melodiei și a notelor. 
 Crește și marșa de eroare.
+
 Este unul dintre cele mai folosit mod pentru că oferă cel mai mult pp posibil pentru un FC (un scor fără nicio ratare)
 
 **Half Time:**
-Este modul care scade viteza melodiei și a obiectelor, precum și marșa de eroare.
+Este modul care scade viteza melodiei și a notelor, precum și marșa de eroare.
+
 Nu este folosit foarte mult, decât pentru hărți care la viteza lor normală sunt considerate imposibile pentru un om.
 
 **Hidden:**
 Este un mod visual, făcând ca obiectele să apară pentru puțin timp pe ecran, acestea disolvându-se când sunt aproape de-a fi "lovite".
 Densitatea și viteza pentru acest mod este un aspect important.
+
 Cu densitatea mică și viteza mare, hidden nu crește foarte mult dificultatea, fiind un bonus mai mult sau mai puțin gratuit, făcând acest mod unul dintre cele mai folosite moduri.
 Dacă avem viteza mică și densitatea mică, hidden crește puțin dificultatea.
 Dacă avem viteza mică și densitatea mare, hidden crește dificultatea foarte mult.
@@ -101,6 +106,11 @@ Pentru toate hărțile făcute pentru jucători, modul Auto va termina harta cu 
 
 # Demonstrații:
 
+**Fără moduri:**
 {{< youtube TnjgvvwSy8A >}}
+
+**Double Time:**
 {{< youtube Qc8n4j_mCzk >}}
+
+**Hard Rock:**
 {{< youtube KbIAu6bi9O4 >}}
